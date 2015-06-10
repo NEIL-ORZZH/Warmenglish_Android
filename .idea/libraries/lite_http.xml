@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="lite_http">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/lite_http.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-1b6f6569b3335e6cc326dc0a24e5ca0b978ed890.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-88369a614ceee6e17f14f5cd6f6cd2df5b799999.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/haha-1.3-b6eeaf7c4fdff1b969fa258eaab408b49278f75c.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/libs/gson-2.2.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="53bfcd3c8e310d1493b2691484525ed90b04e236">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/gson-2.2.2-da71277c1f4c9fc4cb2bc7fe3927211f41bd7479.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="6c828a82efd4d7b389ea45dcc883f38ba053263d">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-6488ad4710d611281e6ce8bec5fea30c25d983d7.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-e44bfdef6c10c99be74ef9c29042df24835a0e91.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="edcb1bb563fa950dfa638b8efd10398088ceaccc">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-0c6b92891372521249d45ea7bb4b0264e6d9adbe.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/haha-1.3-b6eeaf7c4fdff1b969fa258eaab408b49278f75c.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/libs/lite_http.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="3a148642304034484e3de3b1c8c571e1cc7e784c">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/lite_http-8003228db85e534f50c381bdfdf033509d21a2be.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/library-2.4.0-7c385bc741bd0b6666e5435cef759e3df90be911.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="aafdd2ccb8b4a3bfecb83127f189cbbb4f864a73">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-28b864deeb39b9712f55b7af366733187994c0e0.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-beaf7df8cd074e75247ca37af1689953454f2b17.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="edcb1bb563fa950dfa638b8efd10398088ceaccc">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-0c6b92891372521249d45ea7bb4b0264e6d9adbe.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/libs/jg_filter_sdk_1.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="ebfc3cde0309ff27e9568757784eefefc71407a2">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/jg_filter_sdk_1.1-5756653ad51c801fe8dde2eb89eb683c8003cbfc.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/libs/mid-sdk-2.10.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="5b8c105b39a07ec1c2ca81919d64eac5482dca87">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/mid-sdk-2.10-e9dd608ed12c8142980c6cf63da3766b18b54267.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-adc6287e23e30dfdae331fd42576f13ca399a455.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-a5ffa6c68e886ca880f7fbc3673970947487866b.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.github.navasmdc/MaterialDesign/1.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="47d1574333c1f8cc5605bab0c41b3a7397f19b5f">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-80c47ab08748391dc41df413aec11470a56d06ac.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.6/65dcd9c03096b73f4740d63cf93d30a692fe52b5/kenburnsview-1.0.6.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="65dcd9c03096b73f4740d63cf93d30a692fe52b5">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/kenburnsview-1.0.6-c3bb0911c7338705fbad1feaf2339436d68f178b.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.0.4.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7e85b26e1ec2bdf9481e30ab9b330420382de2cb">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-7ab8e318ce119eeb4fae9305bebfe5ddb65c16ba.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3.1-739b106de390a836e28ce0a0c2362cfc7c401c64.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4-88369a614ceee6e17f14f5cd6f6cd2df5b799999.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-bda02858a0bc4f6cc5574754b26fd5354acb8d3b.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.9/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="ed2ab55be78d5d54ac9060d70d65a4573ae3d2ec">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-beaf7df8cd074e75247ca37af1689953454f2b17.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="aafdd2ccb8b4a3bfecb83127f189cbbb4f864a73">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-28b864deeb39b9712f55b7af366733187994c0e0.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-e2ab895d8a1b86bc08279da8c94f59257dcaecbb.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6c828a82efd4d7b389ea45dcc883f38ba053263d">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-6488ad4710d611281e6ce8bec5fea30c25d983d7.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.github.ksoichiro/android-observablescrollview/1.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="010ee9e87a286afcaeaed368dcf829e42d0aa2a0">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-1b6f6569b3335e6cc326dc0a24e5ca0b978ed890.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/android_dev/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-50f8ce04acc8bd45bb39b2597d6ce516cae7de4a.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-c3419de9bc5d88faa777fcd1689f51320f8c74cf.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-bda02858a0bc4f6cc5574754b26fd5354acb8d3b.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3.1-739b106de390a836e28ce0a0c2362cfc7c401c64.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.flaviofaria/kenburnsview/1.0.6/65dcd9c03096b73f4740d63cf93d30a692fe52b5/kenburnsview-1.0.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="65dcd9c03096b73f4740d63cf93d30a692fe52b5">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/kenburnsview-1.0.6-c3bb0911c7338705fbad1feaf2339436d68f178b.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/libs/wup-1.0.0-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="a0845068801a0b9a3a144b7cf57cb650b3d467e5">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/wup-1.0.0-SNAPSHOT-6f5ae6a860d1522a65139e4a5508f17d6426a147.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-6c8eb7f8e18d997a0e8c6373b5bfae445b1799dc.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3.1-4fea6795f85c5dba18221aa26012e7eefbb5d85a.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4c52b6f76d1afe959a9b6651ae61d2b0d158f8c9">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-09d0259ccf391d17fa00617d62aa72ac0433a486.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="4c52b6f76d1afe959a9b6651ae61d2b0d158f8c9">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-09d0259ccf391d17fa00617d62aa72ac0433a486.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/butterknife-6.1.0-c3419de9bc5d88faa777fcd1689f51320f8c74cf.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3.1/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-a5ffa6c68e886ca880f7fbc3673970947487866b.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/libs/Xg_sdk_v2.38_20150405_2046.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="c152fc932d3e18fc5d6a781541f97b05a6ba4fcb">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/Xg_sdk_v2.38_20150405_2046-f91b85a3f44811727331bccc29cc0c026c7442cc.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.github.florent37/materialviewpager/1.0.4.2/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="e431d0d8c661913f8809725a9fd1109c8112f7de">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-7ab8e318ce119eeb4fae9305bebfe5ddb65c16ba.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-e2ab895d8a1b86bc08279da8c94f59257dcaecbb.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/classes-e44bfdef6c10c99be74ef9c29042df24835a0e91.jar" />
+    </item>
+    <item
+        jar="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-881ca12d9a0e2343181d152cc12468b629576ac1.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3.1-4fea6795f85c5dba18221aa26012e7eefbb5d85a.jar" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/gradle-2.2.1/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/kot32/Documents/AndroidStudioWorkspace/WarmEnglish/app/build/intermediates/pre-dexed/debug/library-2.4.0-7c385bc741bd0b6666e5435cef759e3df90be911.jar" />
+    </item>
+
+</items>
